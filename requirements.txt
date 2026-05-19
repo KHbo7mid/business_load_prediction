@@ -1,0 +1,23 @@
+fastapi
+uvicorn
+pandas
+pyarrow # It provides a standardized, columnar data format that allows different systems to share and process large datasets at high speeds without the need to copy or serialize the data
+pymongo #connect Python applications to MongoDB databases
+python-dotenv
+scikit-learn
+matplotlib
+seaborn
+
+
+
+
+lightgbm # A gradient boosting framework that uses tree-based learning algorithms, designed for speed and performance, often used for classification and regression tasks in machine learning.
+xgboost # A scalable and efficient gradient boosting library that provides high performance for classification and regression tasks, often used in machine learning competitions and real-world applications.
+prophet # A forecasting tool developed by Facebook that is designed to handle time series data, providing accurate forecasts and handling seasonality and holidays effectively.
+
+
+shap # SHAP (SHapley Additive exPlanations) is a game-theoretic approach to explain the output of machine learning models, providing insights into feature importance and model predictions.
+joblib # A set of tools to provide lightweight pipelining in Python, particularly for machine learning tasks, allowing for easy saving and loading of models and data.
+pydantic
+pydantic-settings
+httpx
